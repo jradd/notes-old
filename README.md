@@ -7,21 +7,21 @@ Great info regarding Docker and ScaPy, as well as my setup for
 development environment.
 
 ### ToC
-* Development Environemnt [dev-env.md]
+* [Development Environemnt](dev-env.md)
 
-* Z Shell [zsh-full.md] > _Not mine_
-> Obtained from: [zzapper](http://www.zzapper.co.uk/zshtips.html)
+* [Z Shell](zsh-full.md)
+> Obtained from: (zzapper)(http://www.zzapper.co.uk/zshtips.html)
 
-* Docker [docker-1.3.0.md]
-  * docker-1.3.0 [docker.md]
+* [Docker](docker-1.3.0.md)
+  * [docker-1.3.0](docker.md)
 
-* Regular Expressions [regex.md]
+* [Regular Expressions](regex.md)
 
-* ScaPy [scapy.md]
-  * ScaPy Misc [scapy-misc.md]
+* [ScaPy](scapy.md)
+  * [ScaPy Misc](scapy-misc.md)
 
-* Django [django-messy.txt]
-  * Misc Django [django.txt]
+* [Django](django-messy.txt)
+  * [Misc Django](django.txt)
 
 
 ##### DISCLAIMER
