@@ -6,6 +6,9 @@ Personal repo full of my notes regarding life the universe and everything.
 Great info regarding Docker and ScaPy, as well as my setup for
 development environment.
 
+
+Most of these are __very__ rough drafts, and need some work
+
 ### ToC
 * [Development Environemnt](dev-env.md)
 
