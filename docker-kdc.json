@@ -1,0 +1,16 @@
+{
+  "principals": [
+  {
+    "id": "radd/lxcu-kdc.boothologie.net:BOOTHOLOGIE.NET",
+    "password": "eetfukpig"
+  },
+  {
+    "id": "radd@BOOTHOLOGIE.NET",
+    "password": "eetfukpig"
+  }
+  ],
+  "domain": "boothologie.net",
+  "realm": "BOOTHOLOGIE.NET",
+  "ip": 127.0.0.1",
+  "port": 12488
+}
